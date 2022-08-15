@@ -3,7 +3,7 @@
 <h1 align="center">Hi Hello 👋, I'm Sam Takahashi</h1>
 <h3 align="center">A passionate/inquisitive frontend developer from Japan</h3>
 <br />
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-takahashi&label=Profile%20views&color=0e75b6&style=flat" alt="sam-takahashi" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sam.takahashi.sam@gmail.com**
 
-- ⚡ Fun fact **“Curiosity killed the cat" is only part of the expression. The whole idiom goes like this: "Curiosity killed the cat, but satisfaction brought it back."**
+- ⚡ Fun fact **“Curiosity killed the cat" is only part of the expression.<br /> The whole idiom goes like this: <br />"Curiosity killed the cat, but satisfaction brought it back."**
 
 <p align="left">
 </p>
