@@ -1,21 +1,21 @@
 <!-- [![MasterHead](https://source.unsplash.com/d4lv5slqeqY/1600x450)](https://rishavchanda.io) -->
 
-<h1 align="center">Hi Hello 👋, I'm Sam Takahashi</h1>
+<h1 align="center">Hi Hello, I'm Sam Takahashi</h1>
 <h3 align="center">A passionate/inquisitive frontend developer from Japan</h3>
 <br />
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" />
+<img align="left" alt="Coding" width="300" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-takahashi&label=Profile%20views&color=0e75b6&style=flat" alt="sam-takahashi" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sam-takahashi&label=Profile%20views&color=0e75b6&style=flat" alt="sam-takahashi" /> </p>
 
-- 🌱 I’m currently learning **React.js, Typescript**
+&nbsp; &nbsp; &nbsp; &nbsp; - 🌱 I’m currently learning **React.js, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://metisflow.com/](https://metisflow.com/)
+&nbsp; &nbsp; &nbsp; &nbsp; - 👨‍💻 All of my projects are available at [https://metisflow.com/](https://metisflow.com/)
 
-- 💬 Ask me about **HTML, CSS, JS**
+&nbsp; &nbsp; &nbsp; &nbsp; - 💬 Ask me about **HTML, CSS, JS**
 
-- 📫 How to reach me **sam.takahashi.sam@gmail.com**
+&nbsp; &nbsp; &nbsp; &nbsp; - 📫 How to reach me **sam.takahashi.sam@gmail.com**
 
-- ⚡ Fun fact **“Curiosity killed the cat" is only part of the expression.<br /> The whole idiom goes like this: <br />"Curiosity killed the cat, but satisfaction brought it back."**
+&nbsp; &nbsp; &nbsp; &nbsp; - ⚡ Fun fact **“Curiosity killed the cat" is only part of the expression.<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  The whole idiom goes like this: <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  "Curiosity killed the cat, but satisfaction brought it back."**
 
 <p align="left">
 </p>
