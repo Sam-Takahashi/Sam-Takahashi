@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://source.unsplash.com/d4lv5slqeqY/1600x450)](https://rishavchanda.io) -->
 
-<h1 align="center">Hi Hello, I'm Sam Takahashi</h1>
+<h1 align="center">Hi Hello! I'm Sam Takahashi👋</h1>
 <h3 align="center">A passionate/inquisitive frontend developer from Japan</h3>
 <br />
 <img align="left" alt="Coding" width="300" src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" />
