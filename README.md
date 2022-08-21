@@ -11,7 +11,7 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; - 👨‍💻 All of my projects are available at [https://metisflow.com/](https://metisflow.com/)
 
-&nbsp; &nbsp; &nbsp; &nbsp; - 💬 Ask me about **HTML, CSS, JS**
+&nbsp; &nbsp; &nbsp; &nbsp; - 💬 Ask me about **CSS, JS, PHP, Weight Training, Cooking, Golf 😊**
 
 &nbsp; &nbsp; &nbsp; &nbsp; - 📫 How to reach me **sam.takahashi.sam@gmail.com**
 
