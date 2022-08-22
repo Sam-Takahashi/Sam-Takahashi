@@ -9,7 +9,7 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; - 🌱 I’m currently learning **React.js, Typescript**
 
-&nbsp; &nbsp; &nbsp; &nbsp; - 👨‍💻 All of my projects are available at [https://metisflow.com/](https://metisflow.com/)
+&nbsp; &nbsp; &nbsp; &nbsp; - 👨‍💻 Homepage [https://metisflow.com/](https://metisflow.com/)
 
 &nbsp; &nbsp; &nbsp; &nbsp; - 💬 Ask me about **CSS, JS, PHP, Weight Training, Cooking, Golf 😊**
 
