@@ -9,7 +9,7 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; - 🌱 I’m currently learning **React.js, Typescript**
 
-&nbsp; &nbsp; &nbsp; &nbsp; - 👨‍💻 Homepage [Portfolio](https://sam-takahashi.github.io/samtakahashi.github.io/)
+&nbsp; &nbsp; &nbsp; &nbsp; - 👨‍💻 Portfolio [sam-takahashi.github.io](https://sam-takahashi.github.io/samtakahashi.github.io/)
 
 &nbsp; &nbsp; &nbsp; &nbsp; - 💬 Ask me about **CSS, JS, PHP, Weight Training, Cooking, Golf 😊**
 
