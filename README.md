@@ -7,7 +7,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sam-takahashi&label=Profile%20views&color=0e75b6&style=flat" alt="sam-takahashi" /> </p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; - 🌱 I’m currently learning **React.js, Typescript**
+&nbsp; &nbsp; &nbsp; &nbsp; - 🌱 I’m currently learning **React.js, Typescript, Linux OS**
 
 &nbsp; &nbsp; &nbsp; &nbsp; - 👨‍💻 Portfolio [sam-takahashi.github.io](https://sam-takahashi.github.io/samtakahashi.github.io/)
 
